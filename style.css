@@ -1,0 +1,135 @@
+.page-header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 1em;
+    font-size: 0.8em;
+    font-weight: 600;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+}
+
+#webstudio {
+    font-weight: 600;
+    color: blue;
+    padding-right: 5em;
+    padding-left: 8em;
+    font-size: 1.5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+
+#studio {
+    color: black;
+}
+
+.email {
+    padding-left: 15em;
+    font-weight: 300;
+}
+
+.poslyga {
+    padding: 4em;
+    color: white;
+    background-color: rgb(31, 37, 37);
+    text-align: center;
+    margin-top: 1em;
+}
+
+.button {
+    color: floralwhite;
+    background-color: blue;
+    margin-top: 0.4em;
+    padding: 3px 9px;
+    border: 1px solid blue;
+    font-size: x-small;
+    height: 30px;
+    width: 120px;
+}
+
+.button:hover {
+    background-color: gray;
+    color: white;
+    border: none
+}
+
+.main {
+    text-align: left;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-left: 11em;
+    border-spacing: 3em 0.2em;
+    font-size: smaller;
+}
+
+.specialisation {
+    text-align: center;
+    font-size: x-large;
+    font-weight: 700;
+}
+
+.images {
+    padding-left: 4em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 0em;
+}
+
+.team {
+    padding-bottom: 4em;
+    background-color: rgb(231, 229, 250);
+}
+
+.our-team {
+    text-align: center;
+    font-size: x-large;
+    font-weight: 700;
+    padding-top: 3em;
+}
+
+#komand {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 0mm;
+    margin: 0em;
+}
+
+#komand p {
+    text-align: center;
+    background-color: white;
+    padding-top: 1.5em;
+    padding-bottom: 1em;
+    margin-top: -0.5em;
+    border-bottom: 2px inset gray;
+    line-height: 1.5em;
+}
+
+.end {
+    padding-top: 2em;
+    padding-bottom: 5em;
+    background-color: rgb(31, 37, 37);
+    color: white;
+    padding-left: 15em;
+    font-size: x-small;
+}
+
+#web {
+    font-weight: 600;
+    color: blue;
+    font-size: 2.5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+
+#st {
+    color: white;
+}
